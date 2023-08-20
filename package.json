@@ -1,0 +1,27 @@
+{
+  "name": "com.xternity.megapack",
+  "version": "0.1.1",
+  "displayName": "MegaPack",
+  "description": "This is insanelly great megapack.",
+  "unity": "2022.3",
+  "keywords": 
+  [
+    "Xternity",
+  ],
+  "repository": 
+  {
+    "url": "https://github.com/rumyancevpavel/MegaPack.git",
+    "type": "git"
+  },
+  "license" : "MIT",
+  "dependencies": 
+  {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "author": 
+  {
+    "name": "Xternity",
+    "email": "paul@xternity.games",
+    "url": "https://www.xternity.io/"
+  }
+}

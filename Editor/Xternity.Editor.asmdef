@@ -1,0 +1,16 @@
+{
+    "name": "Xternity.Editor",
+    "rootNamespace": "Xternity.Editor",
+    "references": [
+        "GUID:c8ee2310b5f8e446da0c9f6e21f88277"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
